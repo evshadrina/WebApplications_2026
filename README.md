@@ -13,7 +13,7 @@
 <li>Фрагменты, содержащие списки нумерованные, не нумерованные, вложенные </li>
 <li>Изображения объектов или субъектов с соответствующими пояснениями и комментариями; </li>
 <li>Страницу для решения и представления алгоритмической задачи см.
-    https://disk.yandex.ru/d/-8T0TPDprrAQNA - номер задачи
+    https://disk.yandex.ru/d/D7lkkIFljMXQuw - номер задачи в файле 2025_разработкаВеб приложений ШадринаЕВ_63_чел.xlsx
     https://evshadrina.github.io/WebApplications_2025/KR1_Task1.html - содержание задачи по ее номеру </li>
 <li>Страницу с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt </li>
 </ol>

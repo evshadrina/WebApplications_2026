@@ -14,7 +14,7 @@
 <li>Фрагменты, содержащие списки нумерованные, не нумерованные, вложенные </li>
 <li>Изображения объектов или субъектов с соответствующими пояснениями и комментариями; </li>
 <li>Страницу для решения и представления алгоритмической задачи см. <br>
-    https://disk.360.yandex.ru/i/AXlRSFDSoWnfwA - список 2026 - номер задачи в файле 2026_разработкаВеб_приложений ШадринаЕВ_35_чел.xlsx <br>
+   https://disk.360.yandex.ru/i/yq84zOTYdaF5eA  список студентов гр1-2 на семинарах  - ШадринаЕВ_46_чел.xlsx) <br>
     https://evshadrina.github.io/WebApplications_2026/KR1_Task1.html - содержание задачи по ее номеру </li>
 <li>Страницу с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt </li>
 </ol>

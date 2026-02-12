@@ -18,7 +18,7 @@
     https://evshadrina.github.io/WebApplications_2026/KR1_Task1.html - содержание задачи по ее номеру </li>
 <li>Страницу с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt </li>
 </ol>
-<h2>Даты защита контрольной работы 1: 2026-03-12 группы 1,2 <br>
+<h2>Даты защита контрольной работы 1: 2026-03-05 группы 1,2 <br>
 Можно досрочно <br>
 Защита с опозданием - минус 2 балла за контрольную 2026-03-19 группы 1,2 <h2>
 
